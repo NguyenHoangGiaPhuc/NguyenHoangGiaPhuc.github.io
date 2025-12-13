@@ -1,2 +1,2 @@
-<title> "Nguyen Hoang Gia Phuc"</title>
+"Nguyen Hoang Gia Phuc"
 Hi, my name is Nguyen Hoang Gia Phuc
